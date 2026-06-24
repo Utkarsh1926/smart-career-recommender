@@ -1,0 +1,841 @@
+Academic_Stream,Skills,Interests,Communication_Skills,Leadership_Skills,Technical_Knowledge,Career
+Commerce,Analytical,Business,9,8,7,Business Analyst
+Science,Technical,Coding,6,4,10,Software Developer
+Science,Analytical,Coding,5,4,10,Data Analyst
+Arts,Creative,Business,9,7,3,Entrepreneur
+Science,Technical,Coding,6,3,9,Data Analyst
+Commerce,Communication,People Management,7,9,4,HR Manager
+Commerce,Creative,Marketing,6,9,5,Entrepreneur
+Arts,Management,Business,9,8,1,HR Manager
+Arts,Creative,Design,10,6,4,Marketing Executive
+Science,Creative,Marketing,6,7,3,Entrepreneur
+Arts,Communication,Design,8,8,5,Marketing Executive
+Arts,Communication,People Management,7,8,1,HR Manager
+Arts,Management,Business,7,6,3,HR Manager
+Science,Analytical,Finance,6,5,7,Data Analyst
+Science,Management,Business,9,5,5,Business Analyst
+Commerce,Management,Business,8,7,6,Financial Analyst
+Commerce,Technical,Coding,4,3,9,Data Analyst
+Commerce,Management,Business,7,4,7,Financial Analyst
+Arts,Communication,Marketing,1,5,1,Data Analyst
+Arts,Creative,Marketing,8,8,3,Entrepreneur
+Science,Management,People Management,6,7,5,Business Analyst
+Commerce,Management,Finance,6,7,4,Financial Analyst
+Commerce,Analytical,Business,5,5,5,Financial Analyst
+Commerce,Management,Business,7,5,5,Financial Analyst
+Science,Analytical,Coding,6,2,9,Software Developer
+Arts,Communication,Business,9,6,1,HR Manager
+Commerce,Management,Business,6,7,4,Financial Analyst
+Arts,Communication,People Management,9,9,2,HR Manager
+Commerce,Analytical,People Management,8,2,5,Financial Analyst
+Arts,Communication,People Management,10,8,1,HR Manager
+Science,Technical,Coding,3,4,10,Software Developer
+Commerce,Technical,Coding,7,4,7,Data Analyst
+Commerce,Analytical,Finance,6,5,8,Business Analyst
+Science,Analytical,Finance,7,3,10,Data Analyst
+Commerce,Management,Business,7,8,5,Entrepreneur
+Commerce,Management,Business,8,7,3,Entrepreneur
+Commerce,Communication,People Management,8,7,2,HR Manager
+Arts,Management,People Management,8,9,1,HR Manager
+Commerce,Analytical,Business,5,7,4,Financial Analyst
+Arts,Communication,Design,9,5,2,Marketing Executive
+Science,Management,Business,9,5,5,Business Analyst
+Science,Analytical,Business,7,5,7,Business Analyst
+Science,Technical,Coding,6,5,9,Data Analyst
+Arts,Creative,People Management,6,10,6,Marketing Executive
+Commerce,Analytical,Finance,8,6,5,Business Analyst
+Arts,Creative,Design,7,6,4,Marketing Executive
+Commerce,Analytical,Finance,4,4,10,Data Analyst
+Commerce,Management,People Management,8,6,3,HR Manager
+Science,Analytical,Business,9,8,7,Business Analyst
+Arts,Management,Marketing,8,7,4,Entrepreneur
+Commerce,Management,People Management,7,8,4,HR Manager
+Science,Technical,Coding,5,3,9,Software Developer
+Commerce,Management,Finance,8,7,6,Business Analyst
+Arts,Creative,Business,9,9,6,Entrepreneur
+Science,Creative,Business,9,8,4,Entrepreneur
+Commerce,Management,Business,6,6,8,Business Analyst
+Arts,Communication,Marketing,9,5,2,Marketing Executive
+Commerce,Management,Finance,8,5,7,Financial Analyst
+Commerce,Communication,Design,9,7,5,Marketing Executive
+Arts,Management,Business,6,7,7,Entrepreneur
+Science,Technical,Coding,6,3,8,Data Analyst
+Science,Analytical,Coding,3,4,8,Software Developer
+Science,Analytical,Coding,5,3,10,Software Developer
+Science,Creative,Marketing,8,9,7,Entrepreneur
+Science,Technical,Coding,6,3,8,Software Developer
+Commerce,Communication,Design,8,5,3,Marketing Executive
+Commerce,Management,Finance,7,5,5,Financial Analyst
+Arts,Management,Business,9,6,3,HR Manager
+Commerce,Management,Business,8,9,4,HR Manager
+Commerce,Management,Business,7,7,5,Financial Analyst
+Science,Technical,Coding,6,4,8,Software Developer
+Commerce,Creative,Design,8,7,4,Marketing Executive
+Commerce,Communication,Business,8,7,2,HR Manager
+Science,Technical,Coding,7,6,8,Data Analyst
+Science,Technical,Coding,6,5,8,Software Developer
+Commerce,Management,Finance,9,5,5,Business Analyst
+Science,Creative,Marketing,8,9,5,Entrepreneur
+Arts,Creative,Marketing,8,10,7,Entrepreneur
+Commerce,Management,Business,5,6,7,Financial Analyst
+Science,Technical,Coding,4,5,8,Software Developer
+Commerce,Analytical,Coding,6,6,7,Data Analyst
+Commerce,Analytical,Coding,5,5,10,Data Analyst
+Commerce,Management,Business,8,6,6,Business Analyst
+Arts,Creative,Marketing,9,8,2,Marketing Executive
+Commerce,Creative,Business,6,9,5,Entrepreneur
+Science,Analytical,Coding,5,4,10,Software Developer
+Commerce,Creative,Marketing,9,5,2,Marketing Executive
+Arts,Communication,Design,9,7,2,Marketing Executive
+Commerce,Analytical,Coding,6,6,7,Data Analyst
+Arts,Analytical,Business,10,7,9,Data Analyst
+Science,Analytical,Coding,6,4,10,Data Analyst
+Arts,Analytical,Business,1,9,8,Business Analyst
+Commerce,Management,Coding,2,3,1,Entrepreneur
+Science,Analytical,Business,9,8,8,Business Analyst
+Commerce,Management,Finance,5,7,4,Financial Analyst
+Science,Technical,Coding,5,2,10,Software Developer
+Science,Technical,Coding,5,3,9,Software Developer
+Arts,Management,Business,10,6,1,HR Manager
+Science,Analytical,Coding,3,5,9,Software Developer
+Commerce,Communication,Design,7,7,4,Marketing Executive
+Science,Technical,Coding,3,2,8,Software Developer
+Arts,Management,Business,9,7,3,HR Manager
+Arts,Management,Business,9,7,4,HR Manager
+Science,Technical,Coding,5,3,9,Software Developer
+Commerce,Management,Finance,9,6,5,Business Analyst
+Science,Analytical,Coding,6,3,9,Software Developer
+Commerce,Technical,Coding,4,6,10,Data Analyst
+Science,Analytical,Coding,4,5,8,Data Analyst
+Science,Technical,Coding,3,2,9,Software Developer
+Commerce,Analytical,Finance,8,7,6,Business Analyst
+Arts,Creative,Design,7,7,2,Marketing Executive
+Science,Analytical,Business,8,5,6,Business Analyst
+Commerce,Technical,Coding,5,6,7,Data Analyst
+Science,Analytical,Coding,3,3,9,Software Developer
+Science,Technical,Finance,4,3,9,Data Analyst
+Commerce,Communication,Design,9,7,2,Marketing Executive
+Commerce,Management,Finance,9,7,5,Business Analyst
+Science,Analytical,Coding,5,2,10,Software Developer
+Arts,Creative,Marketing,7,8,5,Marketing Executive
+Science,Management,Business,6,7,5,Entrepreneur
+Arts,Communication,Marketing,9,7,5,Marketing Executive
+Commerce,Communication,Business,7,1,5,Marketing Executive
+Commerce,Technical,Finance,5,3,8,Data Analyst
+Commerce,Analytical,Coding,4,6,7,Data Analyst
+Commerce,Analytical,Finance,7,4,7,Financial Analyst
+Commerce,Creative,Business,10,3,7,Data Analyst
+Commerce,Communication,People Management,7,6,1,HR Manager
+Commerce,Communication,Coding,9,7,9,Entrepreneur
+Arts,Technical,People Management,10,10,10,Financial Analyst
+Science,Analytical,Coding,5,4,9,Software Developer
+Arts,Management,Business,10,9,4,HR Manager
+Science,Technical,Coding,6,6,10,Data Analyst
+Arts,Management,Business,9,7,6,Entrepreneur
+Science,Creative,Coding,4,8,1,Software Developer
+Commerce,Creative,Finance,2,10,2,Data Analyst
+Commerce,Communication,Business,8,9,4,HR Manager
+Arts,Communication,People Management,8,7,2,HR Manager
+Science,Analytical,Finance,7,6,6,Business Analyst
+Arts,Management,People Management,10,6,1,HR Manager
+Science,Analytical,Finance,6,5,8,Data Analyst
+Arts,Communication,Design,9,8,2,Marketing Executive
+Commerce,Communication,Marketing,10,6,3,Marketing Executive
+Science,Management,Business,7,10,3,Entrepreneur
+Commerce,Analytical,Finance,7,4,5,Financial Analyst
+Science,Technical,Coding,4,4,9,Software Developer
+Arts,Communication,People Management,10,9,2,HR Manager
+Science,Management,Finance,7,7,7,Business Analyst
+Arts,Communication,Design,10,5,2,Marketing Executive
+Arts,Communication,Design,9,8,3,Marketing Executive
+Commerce,Management,Design,10,6,5,Financial Analyst
+Arts,Communication,Business,10,7,3,HR Manager
+Science,Technical,Coding,5,4,9,Software Developer
+Commerce,Technical,Finance,4,4,10,Data Analyst
+Science,Analytical,Coding,5,3,8,Software Developer
+Arts,Management,People Management,8,8,1,HR Manager
+Science,Technical,Finance,4,6,9,Data Analyst
+Arts,Management,Business,9,6,3,HR Manager
+Commerce,Management,Business,9,6,4,HR Manager
+Arts,Creative,Design,9,5,2,Marketing Executive
+Arts,Communication,Marketing,9,7,3,Marketing Executive
+Science,Analytical,Coding,4,3,9,Data Analyst
+Commerce,Management,Business,5,5,6,Financial Analyst
+Commerce,Management,Business,6,7,8,Business Analyst
+Arts,Communication,Design,8,8,5,Marketing Executive
+Science,Management,Business,9,8,8,Business Analyst
+Commerce,Management,Business,8,7,7,Financial Analyst
+Science,Analytical,Finance,7,8,6,Business Analyst
+Science,Analytical,Coding,4,5,9,Software Developer
+Arts,Management,Business,7,8,5,Entrepreneur
+Arts,Management,People Management,8,7,3,HR Manager
+Science,Communication,Business,4,1,8,Marketing Executive
+Arts,Creative,Marketing,10,7,4,Marketing Executive
+Commerce,Communication,Design,9,5,5,Marketing Executive
+Arts,Management,People Management,7,8,4,HR Manager
+Science,Analytical,Finance,8,5,5,Business Analyst
+Commerce,Technical,Coding,4,3,9,Data Analyst
+Commerce,Analytical,Finance,7,7,4,Financial Analyst
+Science,Technical,Coding,4,2,10,Software Developer
+Science,Analytical,Finance,6,8,8,Business Analyst
+Science,Analytical,Coding,6,5,9,Software Developer
+Commerce,Management,Business,6,7,7,Business Analyst
+Arts,Creative,Marketing,8,7,2,Marketing Executive
+Arts,Management,People Management,8,8,3,HR Manager
+Commerce,Management,Business,7,5,5,Business Analyst
+Commerce,Analytical,Business,8,7,6,Financial Analyst
+Commerce,Management,Business,9,5,8,Business Analyst
+Commerce,Management,Business,5,6,4,Financial Analyst
+Science,Management,Business,7,7,7,Entrepreneur
+Science,Analytical,Coding,6,3,7,Data Analyst
+Science,Creative,Marketing,7,9,7,Entrepreneur
+Commerce,Management,Finance,6,6,7,Business Analyst
+Commerce,Creative,Marketing,8,9,6,Entrepreneur
+Science,Management,Marketing,9,10,7,Entrepreneur
+Commerce,Analytical,Business,6,8,6,Business Analyst
+Science,Management,Marketing,7,10,3,Entrepreneur
+Science,Analytical,Coding,4,4,9,Software Developer
+Commerce,Management,Marketing,1,8,5,Financial Analyst
+Science,Management,Finance,7,6,5,Business Analyst
+Arts,Management,Marketing,6,9,7,Entrepreneur
+Science,Analytical,Finance,4,5,9,Data Analyst
+Commerce,Analytical,Business,7,7,6,Financial Analyst
+Science,Analytical,Finance,9,5,6,Business Analyst
+Commerce,Communication,Design,9,5,5,Marketing Executive
+Arts,Management,Business,7,7,6,Entrepreneur
+Science,Technical,Coding,3,5,9,Software Developer
+Commerce,Creative,Marketing,9,8,4,Entrepreneur
+Science,Management,Finance,9,7,6,Business Analyst
+Arts,Creative,Marketing,8,7,5,Marketing Executive
+Commerce,Communication,People Management,7,6,1,HR Manager
+Arts,Creative,Design,9,6,5,Marketing Executive
+Science,Analytical,Coding,4,3,8,Software Developer
+Science,Technical,Coding,5,4,10,Software Developer
+Commerce,Technical,Coding,4,6,7,Data Analyst
+Science,Analytical,Coding,4,3,10,Software Developer
+Arts,Creative,Business,5,7,4,Financial Analyst
+Arts,Communication,Marketing,8,6,3,Marketing Executive
+Commerce,Communication,Marketing,10,8,2,Software Developer
+Arts,Creative,Business,9,7,4,Entrepreneur
+Commerce,Management,Finance,6,7,6,Financial Analyst
+Science,Analytical,Finance,5,3,8,Data Analyst
+Arts,Management,Business,7,9,4,HR Manager
+Commerce,Analytical,Finance,5,5,4,Financial Analyst
+Commerce,Analytical,Coding,6,3,10,Data Analyst
+Science,Management,Business,6,6,8,Business Analyst
+Science,Analytical,Finance,4,3,8,Data Analyst
+Arts,Communication,Design,9,7,4,Marketing Executive
+Science,Management,Finance,8,8,8,Business Analyst
+Science,Management,Business,8,5,6,Business Analyst
+Commerce,Communication,Business,9,7,2,HR Manager
+Commerce,Analytical,Business,5,7,7,Financial Analyst
+Science,Analytical,Coding,7,6,10,Data Analyst
+Commerce,Management,Finance,7,5,6,Financial Analyst
+Commerce,Management,Finance,7,4,5,Financial Analyst
+Science,Analytical,Finance,5,4,8,Data Analyst
+Commerce,Creative,Marketing,7,7,4,Marketing Executive
+Commerce,Management,Business,5,4,5,Financial Analyst
+Commerce,Management,People Management,10,6,2,HR Manager
+Science,Management,Marketing,7,8,6,Entrepreneur
+Science,Analytical,Coding,6,3,8,Software Developer
+Commerce,Management,Business,7,6,5,Financial Analyst
+Commerce,Management,Finance,6,5,8,Business Analyst
+Commerce,Analytical,Design,9,1,7,HR Manager
+Commerce,Management,Business,6,4,7,Financial Analyst
+Science,Management,Business,7,8,7,Entrepreneur
+Commerce,Analytical,Coding,7,5,8,Data Analyst
+Science,Creative,Marketing,9,8,6,Entrepreneur
+Arts,Management,Marketing,7,9,7,Entrepreneur
+Commerce,Analytical,Business,5,7,7,Financial Analyst
+Science,Creative,Business,7,9,5,Entrepreneur
+Science,Technical,Coding,6,4,7,Data Analyst
+Commerce,Creative,Marketing,8,10,4,Entrepreneur
+Science,Technical,Coding,4,5,10,Software Developer
+Commerce,Communication,Design,9,8,4,Marketing Executive
+Commerce,Management,Business,8,4,7,Financial Analyst
+Arts,Communication,Marketing,8,6,2,Marketing Executive
+Commerce,Management,Business,8,5,4,Financial Analyst
+Commerce,Analytical,Finance,5,4,4,Financial Analyst
+Commerce,Management,Business,7,6,2,HR Manager
+Commerce,Management,People Management,9,8,3,HR Manager
+Commerce,Management,Finance,8,7,7,Financial Analyst
+Arts,Communication,Marketing,10,8,4,Marketing Executive
+Science,Analytical,Coding,5,3,10,Software Developer
+Arts,Communication,Marketing,7,6,2,Marketing Executive
+Science,Analytical,Coding,6,3,10,Data Analyst
+Science,Technical,Coding,3,2,8,Software Developer
+Science,Technical,Coding,5,6,7,Data Analyst
+Arts,Creative,Marketing,9,8,3,Marketing Executive
+Science,Analytical,Coding,5,5,9,Data Analyst
+Commerce,Communication,Design,9,7,5,Marketing Executive
+Commerce,Management,Business,6,7,4,Entrepreneur
+Science,Analytical,Coding,4,5,9,Software Developer
+Commerce,Technical,Coding,7,5,10,Data Analyst
+Arts,Management,Business,9,9,1,HR Manager
+Commerce,Communication,Design,8,8,3,Marketing Executive
+Commerce,Creative,Marketing,8,7,2,Marketing Executive
+Commerce,Technical,Finance,6,4,10,Data Analyst
+Commerce,Communication,Business,8,6,2,HR Manager
+Science,Analytical,Coding,5,4,9,Software Developer
+Commerce,Communication,Business,8,6,2,HR Manager
+Science,Analytical,Coding,6,2,9,Software Developer
+Arts,Management,Marketing,6,7,4,Entrepreneur
+Arts,Communication,Design,10,7,2,Marketing Executive
+Arts,Creative,Marketing,9,10,4,Entrepreneur
+Commerce,Technical,Coding,4,5,9,Data Analyst
+Science,Analytical,Finance,9,6,6,Business Analyst
+Arts,Management,Business,8,7,3,HR Manager
+Commerce,Technical,Finance,4,6,7,Data Analyst
+Science,Analytical,Coding,7,5,7,Data Analyst
+Commerce,Management,Marketing,8,8,5,Entrepreneur
+Commerce,Communication,Business,7,9,2,HR Manager
+Commerce,Management,People Management,7,8,1,HR Manager
+Arts,Creative,Marketing,10,6,4,Marketing Executive
+Science,Analytical,Coding,3,5,8,Software Developer
+Commerce,Management,Finance,6,4,7,Financial Analyst
+Commerce,Communication,Business,9,8,2,HR Manager
+Commerce,Analytical,Coding,3,4,2,Entrepreneur
+Commerce,Management,Business,8,4,4,Financial Analyst
+Arts,Creative,Business,6,8,7,Entrepreneur
+Science,Creative,Marketing,6,7,3,Entrepreneur
+Arts,Management,People Management,8,6,4,HR Manager
+Commerce,Creative,Marketing,10,5,5,Marketing Executive
+Arts,Communication,Marketing,10,6,2,Marketing Executive
+Science,Creative,Business,3,1,8,Entrepreneur
+Commerce,Management,Business,6,5,5,Financial Analyst
+Science,Management,Business,7,7,6,Entrepreneur
+Science,Creative,Design,3,2,6,Software Developer
+Commerce,Analytical,Finance,7,5,7,Financial Analyst
+Arts,Management,Business,10,9,3,HR Manager
+Commerce,Creative,Business,9,7,4,Entrepreneur
+Science,Technical,Coding,3,3,8,Software Developer
+Science,Technical,Finance,4,3,9,Data Analyst
+Science,Management,Business,8,7,7,Entrepreneur
+Commerce,Creative,Marketing,9,8,6,Entrepreneur
+Science,Technical,Finance,6,5,9,Data Analyst
+Commerce,Technical,Finance,4,6,8,Data Analyst
+Commerce,Creative,Design,7,7,4,Marketing Executive
+Commerce,Analytical,Coding,5,3,10,Data Analyst
+Commerce,Communication,Marketing,10,8,4,Marketing Executive
+Science,Analytical,Finance,7,4,9,Data Analyst
+Commerce,Creative,Design,8,5,4,Marketing Executive
+Science,Analytical,Coding,5,4,8,Software Developer
+Science,Analytical,Coding,5,3,9,Software Developer
+Arts,Management,Business,9,7,3,Entrepreneur
+Science,Management,Business,9,10,6,Entrepreneur
+Science,Technical,Finance,7,5,10,Data Analyst
+Commerce,Technical,Finance,4,5,9,Data Analyst
+Commerce,Creative,Marketing,6,8,7,Entrepreneur
+Science,Analytical,Coding,7,5,9,Data Analyst
+Commerce,Technical,Finance,4,6,10,Data Analyst
+Commerce,Analytical,Business,5,7,5,Financial Analyst
+Science,Creative,Coding,8,6,3,Software Developer
+Commerce,Management,Finance,8,5,5,Business Analyst
+Commerce,Analytical,Business,9,6,7,Business Analyst
+Commerce,Management,Business,6,6,8,Business Analyst
+Commerce,Management,Business,6,6,5,Financial Analyst
+Arts,Communication,Business,1,3,5,Entrepreneur
+Commerce,Management,Finance,9,5,7,Business Analyst
+Commerce,Analytical,Business,5,7,5,Financial Analyst
+Science,Analytical,Finance,9,5,6,Business Analyst
+Arts,Management,Business,9,9,3,Entrepreneur
+Arts,Management,Business,8,6,3,HR Manager
+Arts,Creative,Design,7,5,2,Marketing Executive
+Commerce,Communication,People Management,8,7,3,HR Manager
+Science,Technical,Coding,4,4,9,Software Developer
+Science,Technical,Coding,6,4,9,Data Analyst
+Science,Analytical,Finance,5,5,9,Data Analyst
+Arts,Management,Business,7,7,1,HR Manager
+Commerce,Communication,People Management,9,7,3,HR Manager
+Arts,Creative,Marketing,10,6,4,Marketing Executive
+Science,Analytical,Finance,8,6,8,Business Analyst
+Commerce,Analytical,Finance,9,8,5,Business Analyst
+Science,Analytical,Business,1,7,1,Software Developer
+Arts,Creative,Marketing,9,6,3,Marketing Executive
+Science,Analytical,Coding,3,5,9,Software Developer
+Arts,Communication,Marketing,10,5,5,Marketing Executive
+Arts,Management,People Management,8,9,3,HR Manager
+Science,Management,Marketing,6,8,6,Entrepreneur
+Science,Analytical,Coding,7,4,8,Data Analyst
+Arts,Management,People Management,8,8,4,HR Manager
+Science,Analytical,Coding,5,3,8,Data Analyst
+Arts,Communication,Business,7,6,4,HR Manager
+Commerce,Analytical,Coding,3,1,1,Financial Analyst
+Arts,Management,Business,7,9,6,Entrepreneur
+Science,Analytical,Coding,6,4,10,Software Developer
+Science,Analytical,Coding,4,5,10,Software Developer
+Commerce,Creative,Marketing,9,9,7,Entrepreneur
+Arts,Management,People Management,7,6,1,HR Manager
+Commerce,Analytical,Business,8,7,5,Business Analyst
+Commerce,Management,Business,6,7,4,Financial Analyst
+Commerce,Analytical,Business,7,7,7,Financial Analyst
+Commerce,Analytical,Finance,5,6,8,Data Analyst
+Commerce,Communication,Marketing,8,8,4,Marketing Executive
+Arts,Creative,Design,7,6,4,Marketing Executive
+Science,Creative,Marketing,7,10,3,Entrepreneur
+Commerce,Management,Business,7,6,3,HR Manager
+Commerce,Analytical,Finance,7,6,7,Financial Analyst
+Science,Analytical,Business,8,5,5,Business Analyst
+Commerce,Analytical,Business,7,5,5,Business Analyst
+Commerce,Analytical,Finance,5,4,7,Financial Analyst
+Science,Technical,Coding,5,3,10,Data Analyst
+Science,Analytical,Business,7,7,6,Business Analyst
+Arts,Management,Marketing,7,9,4,Entrepreneur
+Arts,Communication,Business,8,9,4,HR Manager
+Commerce,Technical,Finance,5,6,8,Data Analyst
+Commerce,Management,Marketing,7,10,4,Entrepreneur
+Commerce,Management,Business,8,6,6,Financial Analyst
+Commerce,Communication,People Management,9,8,1,HR Manager
+Science,Analytical,Business,9,8,5,Business Analyst
+Arts,Creative,Business,9,7,7,Entrepreneur
+Commerce,Analytical,People Management,4,2,1,Financial Analyst
+Science,Technical,Coding,4,4,8,Data Analyst
+Science,Analytical,Business,7,7,6,Business Analyst
+Commerce,Analytical,Finance,4,3,9,Data Analyst
+Commerce,Analytical,Finance,6,4,6,Financial Analyst
+Commerce,Analytical,Finance,7,5,6,Business Analyst
+Arts,Technical,Business,1,1,5,HR Manager
+Commerce,Management,Finance,7,5,7,Financial Analyst
+Science,Analytical,Finance,6,6,7,Data Analyst
+Science,Analytical,Coding,4,3,9,Software Developer
+Arts,Communication,Marketing,8,6,5,Marketing Executive
+Science,Technical,Coding,4,4,10,Software Developer
+Arts,Communication,Design,8,6,3,Marketing Executive
+Arts,Management,Business,6,9,6,Entrepreneur
+Arts,Creative,Marketing,9,7,3,Entrepreneur
+Commerce,Management,Coding,9,7,1,HR Manager
+Commerce,Management,Business,9,8,7,Business Analyst
+Commerce,Analytical,Finance,7,5,9,Data Analyst
+Commerce,Management,Business,6,5,6,Financial Analyst
+Science,Management,Marketing,8,9,4,Entrepreneur
+Commerce,Creative,Marketing,8,6,4,Marketing Executive
+Commerce,Communication,Finance,7,1,6,Business Analyst
+Commerce,Communication,People Management,9,8,2,HR Manager
+Commerce,Communication,Business,8,7,3,HR Manager
+Arts,Management,Marketing,7,7,3,Entrepreneur
+Commerce,Management,Finance,7,7,4,Financial Analyst
+Science,Management,Finance,9,6,6,Business Analyst
+Science,Creative,Business,8,10,4,Entrepreneur
+Science,Technical,Coding,6,2,8,Software Developer
+Science,Analytical,Finance,7,5,8,Business Analyst
+Commerce,Communication,Marketing,8,7,5,Marketing Executive
+Commerce,Communication,Business,10,6,1,HR Manager
+Science,Creative,Coding,7,1,4,Software Developer
+Arts,Management,Business,7,7,1,HR Manager
+Commerce,Analytical,Finance,6,1,1,HR Manager
+Commerce,Communication,Design,7,6,5,Marketing Executive
+Commerce,Analytical,Coding,6,3,8,Data Analyst
+Commerce,Management,People Management,9,9,3,HR Manager
+Commerce,Communication,Design,9,7,3,Marketing Executive
+Arts,Creative,Business,6,9,5,Entrepreneur
+Commerce,Communication,People Management,8,9,1,HR Manager
+Commerce,Management,Business,6,7,5,Financial Analyst
+Science,Analytical,Coding,4,5,9,Software Developer
+Commerce,Analytical,Finance,6,7,8,Business Analyst
+Commerce,Technical,Coding,7,6,9,Data Analyst
+Commerce,Technical,Finance,5,4,10,Data Analyst
+Commerce,Analytical,Business,8,6,5,Business Analyst
+Science,Technical,Coding,5,3,10,Software Developer
+Commerce,Analytical,Finance,7,6,7,Data Analyst
+Commerce,Management,Marketing,8,8,4,Entrepreneur
+Science,Analytical,Coding,4,5,9,Software Developer
+Science,Analytical,Finance,8,5,5,Business Analyst
+Science,Management,Marketing,7,9,3,Entrepreneur
+Commerce,Management,Finance,7,7,4,Financial Analyst
+Arts,Management,People Management,8,9,2,HR Manager
+Science,Analytical,Coding,4,2,8,Software Developer
+Arts,Management,People Management,2,1,3,Entrepreneur
+Science,Technical,Coding,5,2,9,Software Developer
+Commerce,Management,Business,5,7,4,Financial Analyst
+Commerce,Analytical,Finance,6,6,7,Financial Analyst
+Science,Analytical,Business,7,8,7,Business Analyst
+Science,Technical,Coding,6,5,10,Software Developer
+Commerce,Analytical,Business,8,7,4,Financial Analyst
+Science,Management,Business,8,5,6,Business Analyst
+Science,Technical,Finance,4,6,9,Data Analyst
+Science,Communication,Finance,9,6,6,Software Developer
+Commerce,Creative,Design,9,7,5,Marketing Executive
+Science,Technical,Coding,4,2,10,Software Developer
+Science,Creative,Marketing,8,7,3,Entrepreneur
+Arts,Management,People Management,9,6,1,HR Manager
+Commerce,Management,Business,7,7,4,HR Manager
+Science,Analytical,Coding,5,3,10,Software Developer
+Commerce,Management,Finance,5,7,4,Financial Analyst
+Commerce,Creative,Marketing,9,7,4,Marketing Executive
+Science,Analytical,Business,8,7,8,Business Analyst
+Commerce,Analytical,Finance,7,7,4,Financial Analyst
+Arts,Creative,Design,8,6,5,Marketing Executive
+Commerce,Communication,People Management,8,6,4,HR Manager
+Commerce,Communication,People Management,7,7,1,HR Manager
+Science,Technical,Finance,4,3,9,Data Analyst
+Science,Management,Business,2,2,7,Financial Analyst
+Science,Analytical,Business,9,6,7,Business Analyst
+Arts,Communication,People Management,9,6,1,HR Manager
+Commerce,Communication,Marketing,7,6,2,Marketing Executive
+Science,Technical,Coding,3,3,8,Software Developer
+Commerce,Analytical,Finance,6,4,10,Data Analyst
+Arts,Creative,Design,7,8,2,Marketing Executive
+Arts,Communication,Design,10,7,2,Marketing Executive
+Commerce,Management,Business,8,8,1,HR Manager
+Commerce,Communication,Business,8,6,2,HR Manager
+Science,Technical,Finance,6,6,7,Data Analyst
+Science,Analytical,Business,6,6,7,Business Analyst
+Commerce,Management,Finance,5,7,4,Financial Analyst
+Commerce,Creative,Business,7,7,6,Entrepreneur
+Science,Technical,Coding,7,6,7,Data Analyst
+Commerce,Management,Business,6,4,5,Financial Analyst
+Arts,Communication,People Management,7,6,3,HR Manager
+Arts,Management,Business,10,9,3,HR Manager
+Science,Analytical,Coding,6,4,8,Software Developer
+Arts,Creative,Marketing,8,8,2,Marketing Executive
+Commerce,Creative,Marketing,9,9,7,Entrepreneur
+Arts,Communication,People Management,10,7,3,HR Manager
+Arts,Technical,People Management,4,4,5,Marketing Executive
+Science,Management,Finance,7,6,5,Business Analyst
+Arts,Management,Business,9,8,3,Entrepreneur
+Commerce,Management,Business,7,4,7,Financial Analyst
+Commerce,Analytical,Business,5,4,5,Financial Analyst
+Commerce,Creative,Design,7,8,3,Marketing Executive
+Commerce,Creative,Marketing,8,10,4,Entrepreneur
+Arts,Creative,Design,1,10,1,HR Manager
+Commerce,Creative,Marketing,8,8,3,Marketing Executive
+Arts,Communication,Business,7,9,3,HR Manager
+Commerce,Technical,Coding,7,3,8,Data Analyst
+Commerce,Analytical,Business,9,8,5,Business Analyst
+Commerce,Management,Finance,7,5,6,Financial Analyst
+Commerce,Communication,People Management,9,6,2,HR Manager
+Commerce,Creative,Business,8,8,4,Entrepreneur
+Commerce,Technical,Coding,5,5,9,Data Analyst
+Science,Management,Marketing,8,10,5,Entrepreneur
+Commerce,Management,Business,8,5,6,Financial Analyst
+Science,Technical,Coding,3,5,10,Software Developer
+Arts,Management,Business,8,6,3,HR Manager
+Science,Technical,Coding,7,3,9,Data Analyst
+Commerce,Analytical,Finance,8,5,5,Financial Analyst
+Commerce,Communication,People Management,10,7,1,HR Manager
+Commerce,Management,Business,7,7,2,HR Manager
+Science,Analytical,Coding,3,4,8,Software Developer
+Science,Technical,Coding,3,5,9,Software Developer
+Commerce,Management,Finance,6,4,5,Financial Analyst
+Science,Technical,Coding,7,3,7,Data Analyst
+Commerce,Communication,People Management,4,10,2,Entrepreneur
+Commerce,Analytical,Business,5,7,4,Financial Analyst
+Arts,Communication,People Management,3,6,2,HR Manager
+Commerce,Analytical,Business,7,8,6,Business Analyst
+Science,Management,Finance,7,8,8,Business Analyst
+Science,Management,Business,9,6,6,Business Analyst
+Commerce,Management,Marketing,8,8,7,Entrepreneur
+Science,Analytical,Finance,2,3,5,Software Developer
+Science,Creative,Business,8,9,5,Entrepreneur
+Science,Technical,Coding,6,3,8,Software Developer
+Commerce,Analytical,Finance,6,5,7,Data Analyst
+Science,Analytical,Coding,4,5,10,Software Developer
+Commerce,Management,Finance,8,5,7,Financial Analyst
+Commerce,Analytical,Business,6,8,6,Business Analyst
+Commerce,Management,Finance,8,5,7,Financial Analyst
+Science,Technical,Finance,7,5,10,Data Analyst
+Science,Creative,Business,9,7,5,Entrepreneur
+Science,Analytical,Finance,7,5,7,Data Analyst
+Science,Technical,Coding,3,2,10,Software Developer
+Science,Creative,Business,9,8,7,Entrepreneur
+Arts,Management,Marketing,7,8,7,Entrepreneur
+Science,Creative,Marketing,6,8,6,Entrepreneur
+Arts,Management,People Management,10,6,4,HR Manager
+Science,Analytical,Coding,6,2,9,Software Developer
+Commerce,Analytical,Business,6,4,6,Financial Analyst
+Arts,Creative,Business,1,4,2,Data Analyst
+Science,Technical,Coding,6,3,10,Software Developer
+Commerce,Communication,Design,10,6,5,Marketing Executive
+Arts,Creative,Design,10,7,4,Marketing Executive
+Commerce,Analytical,Finance,5,6,7,Financial Analyst
+Science,Analytical,Coding,5,3,10,Data Analyst
+Science,Technical,Coding,4,3,8,Software Developer
+Commerce,Creative,Design,8,7,4,Marketing Executive
+Commerce,Communication,Design,8,6,4,Marketing Executive
+Science,Analytical,Coding,3,2,10,Software Developer
+Science,Management,Finance,6,7,8,Business Analyst
+Science,Analytical,Coding,6,5,9,Software Developer
+Commerce,Management,Business,6,4,6,Financial Analyst
+Science,Analytical,Business,9,6,7,Business Analyst
+Science,Analytical,Coding,5,4,9,Software Developer
+Commerce,Management,Business,8,10,5,Entrepreneur
+Science,Technical,Coding,3,4,8,Software Developer
+Science,Analytical,Coding,5,5,8,Software Developer
+Science,Technical,Coding,5,3,8,Software Developer
+Commerce,Analytical,Finance,8,4,4,Financial Analyst
+Commerce,Management,Marketing,8,9,3,Entrepreneur
+Commerce,Management,Finance,5,7,6,Financial Analyst
+Commerce,Creative,Business,8,9,4,Entrepreneur
+Commerce,Creative,Business,8,9,6,Entrepreneur
+Science,Analytical,Business,9,7,8,Business Analyst
+Commerce,Technical,Coding,7,6,8,Data Analyst
+Commerce,Analytical,Business,6,6,6,Financial Analyst
+Science,Management,Business,8,7,5,Entrepreneur
+Science,Technical,People Management,4,3,10,Data Analyst
+Arts,Communication,Marketing,9,5,2,Marketing Executive
+Arts,Communication,Marketing,9,8,3,Marketing Executive
+Commerce,Analytical,Finance,6,6,10,Data Analyst
+Arts,Communication,Business,3,1,3,Data Analyst
+Commerce,Analytical,Finance,7,6,7,Financial Analyst
+Arts,Communication,Design,8,7,4,Marketing Executive
+Science,Analytical,Coding,5,3,10,Software Developer
+Commerce,Analytical,Finance,6,5,7,Financial Analyst
+Commerce,Management,Business,6,7,8,Business Analyst
+Science,Analytical,Coding,4,5,9,Software Developer
+Commerce,Management,Marketing,2,5,1,Data Analyst
+Science,Analytical,Business,7,8,8,Business Analyst
+Commerce,Analytical,Coding,6,3,10,Data Analyst
+Commerce,Communication,Marketing,7,5,2,Marketing Executive
+Commerce,Communication,People Management,7,8,4,HR Manager
+Commerce,Management,Business,9,6,2,HR Manager
+Commerce,Management,Business,6,6,5,Business Analyst
+Science,Creative,Business,9,9,4,Entrepreneur
+Science,Analytical,Business,7,6,7,Business Analyst
+Arts,Communication,Coding,7,4,5,Business Analyst
+Arts,Management,People Management,7,7,3,HR Manager
+Commerce,Creative,Coding,2,5,9,HR Manager
+Commerce,Communication,Design,9,6,5,Marketing Executive
+Commerce,Management,Finance,5,5,4,Financial Analyst
+Commerce,Management,Business,6,7,7,Business Analyst
+Science,Analytical,Coding,4,4,9,Software Developer
+Arts,Management,Marketing,8,8,7,Entrepreneur
+Arts,Management,Marketing,6,8,5,Entrepreneur
+Commerce,Analytical,Finance,6,4,5,Financial Analyst
+Commerce,Management,Business,8,5,4,Financial Analyst
+Science,Analytical,Coding,4,2,9,Software Developer
+Arts,Creative,Business,2,4,6,Software Developer
+Commerce,Analytical,Finance,9,8,7,Business Analyst
+Commerce,Management,Business,10,9,1,HR Manager
+Commerce,Creative,Marketing,9,7,5,Marketing Executive
+Arts,Management,Business,10,8,2,HR Manager
+Commerce,Analytical,Finance,6,7,5,Financial Analyst
+Commerce,Management,Finance,6,7,7,Financial Analyst
+Science,Analytical,Business,6,5,8,Business Analyst
+Science,Management,Finance,7,8,5,Business Analyst
+Commerce,Management,Finance,8,6,7,Financial Analyst
+Science,Technical,Coding,6,5,8,Software Developer
+Commerce,Analytical,Business,8,4,4,Financial Analyst
+Commerce,Analytical,Finance,7,5,5,Business Analyst
+Arts,Communication,Business,9,6,4,HR Manager
+Arts,Communication,Business,10,9,4,HR Manager
+Arts,Communication,Marketing,10,7,5,Marketing Executive
+Commerce,Management,Finance,5,7,7,Financial Analyst
+Commerce,Management,Business,8,5,6,Financial Analyst
+Commerce,Management,Business,6,4,4,Financial Analyst
+Arts,Creative,Marketing,9,5,3,Marketing Executive
+Arts,Management,People Management,10,6,3,HR Manager
+Arts,Creative,Design,8,5,5,Marketing Executive
+Science,Analytical,Coding,3,5,9,Software Developer
+Commerce,Management,Business,8,4,4,Financial Analyst
+Arts,Creative,Marketing,9,6,2,Marketing Executive
+Science,Technical,Coding,6,5,9,Software Developer
+Commerce,Management,Finance,8,7,6,Business Analyst
+Science,Analytical,Coding,3,4,9,Software Developer
+Commerce,Management,Finance,6,6,7,Financial Analyst
+Science,Technical,Coding,6,2,8,Software Developer
+Science,Management,Business,8,8,6,Business Analyst
+Science,Technical,Coding,5,4,10,Software Developer
+Commerce,Analytical,Finance,7,7,8,Business Analyst
+Commerce,Analytical,Finance,8,7,7,Business Analyst
+Science,Analytical,Coding,3,2,9,Software Developer
+Science,Analytical,People Management,3,10,9,Marketing Executive
+Science,Technical,Coding,4,5,9,Software Developer
+Commerce,Management,Business,7,8,5,Entrepreneur
+Commerce,Communication,People Management,8,8,4,HR Manager
+Science,Management,Business,7,8,7,Business Analyst
+Commerce,Communication,Marketing,7,5,4,Marketing Executive
+Science,Analytical,Coding,6,10,2,Entrepreneur
+Commerce,Technical,Coding,7,3,10,Data Analyst
+Commerce,Analytical,Business,8,7,4,Financial Analyst
+Commerce,Analytical,Finance,8,5,2,Software Developer
+Commerce,Management,Finance,8,7,7,Business Analyst
+Arts,Communication,Design,7,6,3,Marketing Executive
+Commerce,Analytical,Finance,5,4,4,Financial Analyst
+Science,Analytical,Finance,6,5,5,Business Analyst
+Commerce,Communication,People Management,7,6,1,HR Manager
+Commerce,Analytical,Business,6,5,7,Business Analyst
+Commerce,Communication,Design,8,5,3,Marketing Executive
+Science,Technical,Coding,5,4,8,Software Developer
+Arts,Creative,Marketing,9,10,9,HR Manager
+Commerce,Management,Business,9,6,3,HR Manager
+Commerce,Analytical,Finance,7,5,7,Business Analyst
+Commerce,Analytical,Finance,7,7,6,Business Analyst
+Arts,Technical,People Management,5,6,10,HR Manager
+Commerce,Creative,Design,9,5,5,Marketing Executive
+Commerce,Communication,Design,10,7,3,Marketing Executive
+Commerce,Management,Business,8,6,5,Financial Analyst
+Commerce,Analytical,Finance,10,3,6,Software Developer
+Science,Analytical,Business,7,8,7,Business Analyst
+Commerce,Creative,Design,7,5,4,Marketing Executive
+Arts,Management,Business,10,9,4,HR Manager
+Commerce,Management,Marketing,6,7,7,Entrepreneur
+Science,Technical,Coding,10,3,2,Business Analyst
+Science,Analytical,Coding,5,3,10,Software Developer
+Science,Analytical,Coding,3,4,8,Software Developer
+Science,Technical,Coding,4,3,9,Software Developer
+Commerce,Management,Business,6,5,6,Business Analyst
+Science,Analytical,Business,9,8,7,Business Analyst
+Commerce,Analytical,Business,7,5,6,Business Analyst
+Science,Management,Design,6,3,9,Business Analyst
+Science,Management,Business,6,7,5,Entrepreneur
+Science,Creative,Marketing,9,9,7,Entrepreneur
+Commerce,Analytical,Coding,7,6,8,Data Analyst
+Arts,Communication,Business,10,6,2,HR Manager
+Commerce,Management,Business,6,6,5,Financial Analyst
+Arts,Creative,Marketing,8,8,3,Entrepreneur
+Commerce,Analytical,Coding,7,3,8,Data Analyst
+Commerce,Creative,Marketing,8,8,4,Entrepreneur
+Commerce,Management,Business,8,7,5,Financial Analyst
+Science,Analytical,Business,7,8,7,Business Analyst
+Science,Technical,Coding,3,2,8,Software Developer
+Commerce,Analytical,Finance,6,7,7,Business Analyst
+Science,Technical,Coding,4,5,8,Software Developer
+Commerce,Technical,Finance,6,5,10,Data Analyst
+Commerce,Management,Business,8,7,5,Entrepreneur
+Arts,Communication,People Management,9,6,3,HR Manager
+Arts,Management,Business,6,7,3,Entrepreneur
+Science,Analytical,Business,7,5,6,Business Analyst
+Commerce,Communication,Design,7,5,4,Marketing Executive
+Science,Management,Marketing,7,10,4,Entrepreneur
+Science,Technical,Coding,6,2,8,Software Developer
+Commerce,Analytical,Business,5,7,7,Financial Analyst
+Commerce,Communication,Design,8,5,3,Marketing Executive
+Commerce,Management,Design,3,8,5,Marketing Executive
+Science,Management,Business,6,6,8,Business Analyst
+Commerce,Analytical,Business,8,7,6,Financial Analyst
+Commerce,Analytical,Coding,6,5,10,Data Analyst
+Science,Analytical,Business,8,6,5,Business Analyst
+Science,Analytical,Coding,3,3,8,Software Developer
+Science,Management,Business,9,7,5,Business Analyst
+Science,Creative,Marketing,7,7,5,Entrepreneur
+Science,Management,Business,9,5,7,Business Analyst
+Science,Technical,Coding,7,4,8,Data Analyst
+Arts,Management,Business,9,9,5,Entrepreneur
+Arts,Creative,Marketing,10,7,5,Marketing Executive
+Science,Management,Business,7,9,5,Entrepreneur
+Science,Analytical,Coding,6,4,7,Data Analyst
+Commerce,Analytical,Finance,6,6,8,Data Analyst
+Science,Communication,Design,7,3,10,Financial Analyst
+Commerce,Management,Business,7,4,7,Financial Analyst
+Science,Analytical,Finance,7,6,8,Data Analyst
+Science,Technical,Coding,6,4,9,Software Developer
+Commerce,Analytical,Finance,6,4,5,Financial Analyst
+Science,Creative,Business,7,8,4,Entrepreneur
+Commerce,Communication,Marketing,7,7,3,Marketing Executive
+Arts,Management,Business,9,9,1,HR Manager
+Commerce,Communication,Design,7,5,4,Marketing Executive
+Science,Management,Finance,9,7,5,Business Analyst
+Arts,Communication,Marketing,7,5,2,Marketing Executive
+Science,Creative,Business,8,8,3,Entrepreneur
+Science,Management,Marketing,9,7,3,Entrepreneur
+Commerce,Management,Business,6,5,5,Financial Analyst
+Science,Technical,Coding,7,3,10,Data Analyst
+Arts,Creative,Design,10,6,3,Marketing Executive
+Commerce,Management,Business,8,7,8,Business Analyst
+Commerce,Management,Finance,6,5,6,Financial Analyst
+Science,Technical,Coding,4,2,8,Software Developer
+Arts,Management,Business,7,9,5,Entrepreneur
+Commerce,Analytical,Finance,6,5,7,Data Analyst
+Science,Analytical,Finance,6,4,8,Data Analyst
+Arts,Technical,Finance,6,10,3,Financial Analyst
+Commerce,Analytical,Finance,4,3,7,Data Analyst
+Arts,Creative,Marketing,8,10,5,Entrepreneur
+Arts,Creative,Design,8,6,5,Marketing Executive
+Commerce,Management,Finance,6,6,4,Financial Analyst
+Commerce,Management,Business,6,4,7,Financial Analyst
+Commerce,Analytical,Coding,4,5,10,Data Analyst
+Arts,Management,People Management,8,9,1,HR Manager
+Commerce,Analytical,Finance,9,8,6,Business Analyst
+Science,Analytical,Coding,3,5,8,Software Developer
+Arts,Management,Business,10,6,4,HR Manager
+Commerce,Management,Business,9,5,7,Business Analyst
+Arts,Communication,Business,10,6,4,HR Manager
+Science,Analytical,Coding,5,5,9,Software Developer
+Arts,Communication,Marketing,10,8,2,Marketing Executive
+Arts,Management,Finance,10,1,6,Marketing Executive
+Arts,Management,Design,5,9,10,Software Developer
+Commerce,Creative,Marketing,7,9,4,HR Manager
+Commerce,Analytical,Business,8,6,4,Financial Analyst
+Commerce,Analytical,Finance,6,5,4,Financial Analyst
+Science,Creative,Business,9,9,4,Entrepreneur
+Science,Technical,Coding,3,2,9,Software Developer
+Arts,Communication,Business,1,8,6,Marketing Executive
+Science,Management,Business,6,5,7,Business Analyst
+Arts,Creative,Design,10,7,3,Marketing Executive
+Commerce,Technical,Finance,7,6,9,Data Analyst
+Science,Creative,Business,6,8,4,Entrepreneur
+Arts,Communication,Marketing,9,8,4,Marketing Executive
+Science,Analytical,Coding,6,5,10,Data Analyst
+Science,Analytical,Coding,4,5,9,Software Developer
+Science,Management,Marketing,9,9,6,Entrepreneur
+Science,Technical,Coding,5,6,10,Data Analyst
+Commerce,Analytical,Finance,6,5,7,Financial Analyst
+Commerce,Technical,Finance,5,6,7,Data Analyst
+Science,Management,Marketing,7,10,3,Entrepreneur
+Arts,Creative,Marketing,10,6,5,Marketing Executive
+Commerce,Creative,Marketing,8,8,3,Marketing Executive
+Commerce,Communication,Marketing,8,6,5,Marketing Executive
+Commerce,Technical,Finance,4,5,8,Data Analyst
+Commerce,Creative,Marketing,7,10,3,HR Manager
+Science,Creative,Business,6,9,4,Entrepreneur
+Commerce,Management,People Management,9,9,3,HR Manager
+Science,Technical,Coding,6,5,9,Software Developer
+Arts,Analytical,Business,1,1,4,HR Manager
+Commerce,Analytical,Coding,7,6,10,Data Analyst
+Arts,Management,People Management,9,6,2,HR Manager
+Commerce,Analytical,Business,6,6,5,Business Analyst
+Arts,Communication,Design,7,6,5,Marketing Executive
+Commerce,Management,People Management,9,7,2,HR Manager
+Commerce,Analytical,Business,6,4,7,Financial Analyst
+Science,Technical,Coding,6,4,8,Software Developer
+Science,Analytical,Finance,8,5,8,Business Analyst
+Commerce,Creative,Business,8,7,7,Entrepreneur
+Science,Technical,Coding,6,3,8,Software Developer
+Arts,Management,Business,7,10,7,Entrepreneur
+Arts,Management,People Management,7,8,3,HR Manager
+Science,Technical,Coding,8,1,1,Entrepreneur
+Science,Management,Marketing,8,9,6,Entrepreneur
+Science,Analytical,Finance,5,6,4,Business Analyst
+Commerce,Management,Business,8,5,6,Financial Analyst
+Science,Analytical,Coding,3,5,10,Software Developer
+Science,Management,Finance,8,6,6,Business Analyst
+Commerce,Creative,Marketing,9,6,2,Marketing Executive
+Science,Analytical,Business,6,8,7,Business Analyst
+Commerce,Management,Marketing,8,10,3,Entrepreneur
+Commerce,Analytical,Finance,4,5,9,Data Analyst
+Commerce,Creative,Marketing,10,5,5,Marketing Executive
+Commerce,Management,Marketing,9,7,4,Entrepreneur
+Science,Technical,Coding,4,3,9,Software Developer
+Commerce,Communication,Business,9,6,4,HR Manager
+Science,Technical,Coding,7,4,8,Data Analyst
+Arts,Communication,Business,10,8,2,HR Manager
+Arts,Creative,Design,9,5,5,Marketing Executive
+Commerce,Management,Finance,7,6,5,Financial Analyst
+Commerce,Management,Business,8,9,2,HR Manager
+Commerce,Analytical,Business,5,5,6,Financial Analyst
+Arts,Communication,Marketing,8,7,5,Marketing Executive
+Science,Analytical,Coding,3,2,10,Software Developer
+Arts,Technical,Finance,8,10,5,Marketing Executive
+Arts,Management,Marketing,6,10,5,Entrepreneur
+Science,Technical,Finance,5,2,3,HR Manager
+Science,Technical,Coding,3,5,8,Software Developer
+Commerce,Communication,People Management,8,9,3,HR Manager
+Commerce,Management,Business,6,7,6,Business Analyst
+Commerce,Analytical,Finance,8,4,7,Financial Analyst
+Science,Analytical,Finance,7,8,7,Business Analyst
+Science,Analytical,Coding,5,5,9,Data Analyst
+Commerce,Creative,Marketing,9,7,5,Marketing Executive
+Commerce,Technical,Coding,7,3,9,Data Analyst
+Arts,Creative,Design,10,8,5,Marketing Executive
+Commerce,Management,People Management,9,6,1,HR Manager
+Commerce,Management,Business,5,7,7,Financial Analyst
+Arts,Communication,Design,9,6,3,Marketing Executive
+Commerce,Management,Business,8,7,6,Financial Analyst
+Commerce,Analytical,Finance,6,6,5,Business Analyst
+Commerce,Technical,Coding,5,6,7,Data Analyst
+Commerce,Analytical,Finance,7,6,5,Business Analyst
+Commerce,Analytical,Finance,7,6,10,Data Analyst
+Commerce,Technical,Finance,7,3,7,Data Analyst
+Commerce,Communication,People Management,10,7,4,HR Manager
+Commerce,Creative,Marketing,8,5,3,Marketing Executive
+Science,Analytical,Coding,5,6,7,Data Analyst
